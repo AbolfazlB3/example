@@ -1,0 +1,14 @@
+
+* {
+  margin:0; padding:0;
+}
+html, body {
+  width:100%; height:100%; overflow: hidden;
+  color: aqua;
+}
+
+#main_canvas {
+  background: #eee;
+  width: 100%;
+  display:block;
+}
