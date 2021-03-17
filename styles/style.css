@@ -7,8 +7,16 @@ html, body {
   color: aqua;
 }
 
-#main_canvas {
+.game_canvas {
   background: #eee;
   width: 100%;
-  display:block;
+  height: 100%;
+}
+
+#main_canvas {
+  display: block;
+}
+
+#temp_canvas {
+  display: none;
 }
